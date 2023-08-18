@@ -16,4 +16,5 @@ How has your work on this project expanded your approach to designing software a
 The work i've done on these projects gives me an insight of how data structures can be used in our real world application once school is over, things like the Big-O runtime analysis showed me how certain strucutres can be better suited for certain situations.
 
 How has your work on this project evolved the way you write programs that are maintainable, readable, and adaptable?
+
 This project has allowed my development skills to grow just based off of the practice and introduction to new material as well as some concepts from the past returning to me. Seeing how interconnected things can be it would be ideal to reuse some code at times where it will heighten effeciency and save time for the developer themselves.
